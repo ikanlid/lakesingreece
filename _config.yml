@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Ioanna Kanlidou
-  pic: ioanna_kanlidou.jpg
+  pic: 1
   position: Lead Designer
   social:
     - title: twitter
