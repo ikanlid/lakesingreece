@@ -9,8 +9,8 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
+- name: Ioanna Kanlidou
+  pic: ioanna_kanlidou.jpg
   position: Lead Designer
   social:
     - title: twitter
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Nicol Tryfona
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Spyros Mavromatis
   pic: 3
   position: Lead Developer
   social:
