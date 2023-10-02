@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Λίμνη Κάρλα
+subtitle: 
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Αποξηραμένες Λίμνες
+description: Η λίμνη Κάρλα, ή λίμνη Βοιβηίδα (παλαιότερα) και κατά την αρχαιότητα Βοιβηΐς, ή Βοιβιάς, ή Βοίβη, ή λίμνη της Πελασγιώτιδος, είναι λίμνη η οποία αποξηράνθηκε το 1962, επειδή την εποχή εκείνη προκαλούσε πλημμύρες στις πέριξ γεωργικές καλλιέργειες, ενώ ορισμένες βαλτώδεις εκτάσεις γύρω της προκαλούσαν την έντονη παρουσία εντόμων. 
 
 ---
