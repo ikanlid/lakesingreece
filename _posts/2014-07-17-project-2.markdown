@@ -1,6 +1,6 @@
 ---
-title: Λιμνη 
-subtitle: Τριχωνιδα
+title: Λιμνη Τριχωνιδα
+subtitle: 
 layout: default
 modal-id: 2
 date: 2014-07-17
