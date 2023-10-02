@@ -1,6 +1,6 @@
 ---
 title: Λιμνη Καρλα
-subtitle: 
+subtitle: 190.000 τ.χμ.
 layout: default
 modal-id: 1
 date: 2014-07-18
