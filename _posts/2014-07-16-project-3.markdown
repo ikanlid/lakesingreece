@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Η λίμνη Βόλβη είναι λίμνη της Μακεδονίας, βρίσκεται στην Περιφερειακή Ενότητα Θεσσαλονίκης ανατολικά από την πόλη της Θεσσαλονίκης σε απόσταση 35 χλμ. και 8 χλμ. δυτικά από την θάλασσα του Στρυμονικού κόλπου, στη λεκάνη της Μυγδονίας, στον Δήμο Βόλβης.
 
 ---
