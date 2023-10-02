@@ -1,5 +1,5 @@
 ---
-title: Βολβη
+title: Λιμνη Βολβη
 subtitle: 75.456 τ.χμ.
 layout: default
 modal-id: 3
