@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lakes
 title: POIs List
 permalink: /pois/
 
