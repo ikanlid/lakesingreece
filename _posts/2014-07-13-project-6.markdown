@@ -1,6 +1,6 @@
 ---
 title: Βιστωνιδα
-subtitle: Graphic Design
+subtitle: 45,030 τ.χμ.
 layout: default
 modal-id: 6
 date: 2014-07-15
